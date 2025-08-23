@@ -1,5 +1,6 @@
 using UnityEngine;
 
+//Scoring System for Player
 public class Scorer : MonoBehaviour
 {
     int hits = 0;

@@ -1,5 +1,6 @@
 using UnityEngine;
 
+//Hit Detection Script
 public class ObjectHit : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
